@@ -1,0 +1,12 @@
+This is a visual representation of Employees attendance in a company office for the month of April, May and June. This visual representation helps us to know the percentage of the employee attending the office and percentage of employee WFH.
+Along with is it also have tables and graphical presentations with give us more in depth information about employee attendance activities such as 
+How many employee were sick.
+How many were WHF
+Show the data of particular employee you want to investigate
+And also show the graphical presentation  of that to let us know about the trends
+
+Custom function(GetData) is used in this. So that new months data can also be transformed automatically by invoking this function. You don't have to do the transformation every time new data comes 
+
+Tools used - Power BI
+source - Excel file
+
